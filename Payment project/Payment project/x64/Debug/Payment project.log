@@ -1,0 +1,6 @@
+﻿  server.c
+C:\Users\mahmoud\Desktop\embeded systems\Udacity\Embeded system\Payment project\Payment project\Payment project\Server\server.c(80,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mahmoud\Desktop\embeded systems\Udacity\Embeded system\Payment project\Payment project\Payment project\Server\server.c(84,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mahmoud\Desktop\embeded systems\Udacity\Embeded system\Payment project\Payment project\Payment project\Server\server.c(115,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahmoud\Desktop\embeded systems\Udacity\Embeded system\Payment project\Payment project\Payment project\Server\server.c(132,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Payment project.vcxproj -> C:\Users\mahmoud\Desktop\embeded systems\Udacity\Embeded system\Payment project\Payment project\x64\Debug\Payment project.exe
